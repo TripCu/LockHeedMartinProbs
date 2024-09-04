@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LM19 
+public class LM1921 
 {
     public static void main(String[] args)
     {
