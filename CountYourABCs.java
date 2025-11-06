@@ -14,7 +14,6 @@ public class CountYourABCs {
 
             for (char c : line.toCharArray()) {
                 if (Character.isLetter(c)) {
-                    // Convert 'A'..'Z' into 0..25 index
                     letterCounts[c - 'A']++;
                 }
             }
